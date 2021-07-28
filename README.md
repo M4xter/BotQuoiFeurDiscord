@@ -2,4 +2,4 @@
 
 *requirements*
 
-discord        pip install discord
+discord 
